@@ -1,6 +1,8 @@
 # Exploratory Analysis
 
-The Customer Service team at Profeco wants to analyze the monitored products in Mexico. The IT team downloaded the database into an Google Drive on a CSV file of about 20GB.  Your task as a Data Engineer is processing the data and creating an exploratory analysis with Python Pandas without using pure Python functions. A small sample of data from the file can be found at: [https://github.com/wizeline/academy-data-bootcamp-selection-challenge/blob/main/data/sample.csv](https://github.com/wizeline/academy-data-bootcamp-selection-challenge/blob/main/data/sample.csv)
+The Customer Service team at Profeco wants to analyze the monitored products in Mexico. The IT team downloaded the database into an Google Drive on a CSV file of about 20GB; you can find the big file at: [Google Drive File](https://drive.google.com/drive/folders/1NwKZi2YiDZ861LMmFMh1HyVC2DtHVpr2).  Your task as a Data Engineer is processing the data and creating an exploratory analysis with Python Pandas without using pure Python functions. As an aid to help you start, a small sample of data from the file can be found at: [https://github.com/wizeline/academy-data-bootcamp-selection-challenge/blob/main/data/sample.cs](https://github.com/wizeline/academy-data-bootcamp-selection-challenge/blob/main/data/sample.csv)
+
+<br>
 The Customer Service team at Profeco wants to analyze the monitored products in Mexico. The IT team downloaded the database into an S3 bucket on a CSV file of about 20GB. Your task as a Data Engineer is processing the data and creating an exploratory analysis with Python Pandas without using pure Python functions.
 
 Once the working environment and data are ready, this exercise takes approximately three hours to complete.
