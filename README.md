@@ -19,7 +19,7 @@ The following is the structure of the CSV file:
 | BOLIGRAFO               | BLISTER 3 PIEZAS. PUNTO FINO. GEL             | BIC. CRISTAL GEL | MATERIAL ESCOLAR | UTILES ESCOLARES | 32.5   | 2011-05-18 0:00:00 | ABASTECEDORA LUMEN | PAPELERIAS | ABASTECEDORA LUMEN SUCURSAL VILLA COAPA | CANNES No. 6 ESQ. CANAL DE MIRAMONTES | DISTRITO FEDERAL | TLALPAN   | 19.29699 | -99.125417 |
 | CINTA ADHESIVA          | BOLSA 1 PIEZA. 12 MM. X 33 M. C.B. 100317     | SCOTCH 3M. 600   | MATERIAL ESCOLAR | UTILES ESCOLARES | 9      | 2011-05-18 0:00:00 | ABASTECEDORA LUMEN | PAPELERIAS | ABASTECEDORA LUMEN SUCURSAL VILLA COAPA | CANNES No. 6 ESQ. CANAL DE MIRAMONTES | DISTRITO FEDERAL | TLALPAN   | 19.29699 | -99.125417 |
 
-**Respond to the following questions:**
+#### **Respond to the following questions:**
 
 1. How many commercial chains are monitored, and therefore, included in this database?
 2. What are the top 10 monitored products by State?
