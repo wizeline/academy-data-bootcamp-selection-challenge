@@ -6,7 +6,6 @@ The Customer Service team at Profeco wants to analyze the monitored products in 
 Once the working environment and data are ready, this exercise takes approximately three hours to complete.
 
 The following is the structure of the CSV file:
-<br>
 
 
 | producto                | presentacion                                  | marca            | categoria        | catalogo         | precio | fechaRegistro      | cadenaComercial    | giro       | nombreComercial                         | direccion                             | estado           | municipio | latitud  | longitud   |
