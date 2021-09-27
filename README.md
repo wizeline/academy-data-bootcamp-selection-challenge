@@ -1,14 +1,44 @@
+# Wizeline Data Bootcamp Challenge
+
+Thank you for registering for the Wizeline Academy Data Bootcamp, and welcome to the Technical Challenge!
+
+In order to be accepted into the Wizeline Academy Data Bootcamp, you must successfully complete the Technical Challenge, which consists of two parts. After registering, you have **3 days** to complete both parts, detailed below.
+
+We **do not** want you to think of this as a test or an exam, but instead, more like a project you have been assigned to complete. Communication is important, and we are here to help you if you get stuck or have any concerns - just open an issue in the source repository and our team of expert Data Engineers will get back to you as soon as we can!
+<br /><br />
+
+## Technical Challenge Part 1 - Coding
+
+To give you an opportunity to demonstrate your coding skills, we have designed a challenge for you in **`CodeSignal`**.
+
+You can access this part of the challenge using the following **[link](https://app.codesignal.com/public-test/M4aKscdKFjuzgzPTA/ZnpLfepFRD22eh)**.
+
+### Important Notes:
+
+- Once you start this part of the challenge, you will have **1 hour** to complete it within the CodeSignal platform!
+- Make sure before you start, you have the time available to finish it.
+- You **must** complete this part of the challenge before moving on to the second part, detailed below.
+  <br />
+  <br />
+
+## Technical Challenge Part 2 - Practical Applications
+
+For the second part of the challenge, we would like you to fork **[this](https://github.com/wizeline/academy-data-bootcamp-selection-challenge)** repository. This will help us get an understanding of your problem solving skills, no matter which technology stack is used.
+
+### Important notes:
+
+- We expect this part of the challenge to take around **3 hours** to complete.
+- There is no specific time limitations, so you can go at your own pace, **but please make sure to submit it within three days of registration!**
+- Once you have completed this part of the challenge, please fill out the **Google Form** that is mentioned at the bottom of this page with your forked repository.
+
 # Exploratory Analysis
 
-The Customer Service team at Profeco wants to analyze the monitored products in Mexico. The IT team downloaded the database into an Google Drive on a CSV file of about 20GB; you can find the big file at: [Google Drive File](https://drive.google.com/file/d/1crFR4yrS_6DV3_Fh-HrhANJg1-qlyE-O/view?usp=sharing)
+The Customer Service team at Profeco (Mexican Consumer Protection Agency) wants to analyze the monitored products in Mexico. The IT team downloaded the database into an Google Drive on a CSV file of about 20GB; you can find the big file at: [Google Drive File](https://drive.google.com/file/d/1crFR4yrS_6DV3_Fh-HrhANJg1-qlyE-O/view?usp=sharing)
 
 Your task as a Data Engineer is processing the data and creating an exploratory analysis with Python Pandas without using pure Python functions. As an aid to help you start, a small sample of data from the file can be found at: [https://github.com/wizeline/academy-data-bootcamp-selection-challenge/blob/main/data/sample.csv](https://github.com/wizeline/academy-data-bootcamp-selection-challenge/blob/main/data/sample.csv)
 
 <br>
-The Customer Service team at Profeco wants to analyze the monitored products in Mexico. The IT team downloaded the database into an S3 bucket on a CSV file of about 20GB. Your task as a Data Engineer is processing the data and creating an exploratory analysis with Python Pandas without using pure Python functions.
-
 Once the working environment and data are ready, this exercise takes approximately three hours to complete.
-
 The following is the structure of the CSV file:
 
 
@@ -33,5 +63,14 @@ The following is the structure of the CSV file:
 
 ### Deliverables
 
+* Google form with forked repository URL.
 * Python Code (Plain Script or Jupyter Notebook) on GitHub.
 * Create a report that includes the responses to the questions, the lessons learned, and any additional comments. In this report, you can include diagrams and images that support your solution.
+
+---
+
+## Don’t forget to fill out the Google Form with your forked repository!
+
+Remember, you must send your forked repository by filling out the following **[Google Form](https://forms.gle/BVWLqYnoFj8CRF3v8)** within **three days of your registration date** to be considered for the Wizeline Academy Data Bootcamp!
+
+Thanks for completing the challenge, we can’t wait to see you soon!
