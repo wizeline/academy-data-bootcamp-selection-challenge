@@ -2,14 +2,16 @@
 
 Thank you for registering for the Wizeline Academy Data Engineering Bootcamp, and welcome to the Technical Challenge!
 
-In order to be accepted into the Wizeline Academy Data Engineering Bootcamp, you must successfully complete the Technical Challenge, which consists of two parts. After registering, you have **3 days** to complete both parts, detailed below.
+To be accepted into the Wizeline Academy Data Engineering Bootcamp, you must complete the Technical Challenge, which consists of two parts. After registering, you have **three days** to complete both parts, detailed below.
 
-We **do not** want you to think of this as a test or an exam, but instead, more like a project you have been assigned to complete. Communication is important, and we are here to help you if you get stuck or have any concerns - just open an issue in the source repository and our team of expert Data Engineers will get back to you as soon as we can!
-<br /><br />
+This challenge **is not** a test or an exam; it is a project, and you are the engineer assigned to solve this issue.
+
+Communication is essential, and we are here to help you if you get stuck or have any concerns - open an issue in the source repository, and our team of expert Data Engineers will get back to you as soon as possible!
+<br />
 
 ## Technical Challenge Part 1 - Coding
 
-To give you an opportunity to demonstrate your coding skills, we have designed a challenge for you in **`CodeSignal`**.
+To allow you to show your coding skills, we have designed a challenge for you in **`CodeSignal`**.
 
 You can access this part of the challenge using the following **[link](https://app.codesignal.com/public-test/M4aKscdKFjuzgzPTA/ZnpLfepFRD22eh)**.
 
@@ -23,13 +25,14 @@ You can access this part of the challenge using the following **[link](https://a
 
 ## Technical Challenge Part 2 - Practical Applications
 
-For the second part of the challenge, we would like you to fork **[this](https://github.com/wizeline/academy-data-bootcamp-selection-challenge)** repository. This will help us get an understanding of your problem solving skills, no matter which technology stack is used.
+For the second part of the challenge, we would like you to fork **[this repository](https://github.com/wizeline/academy-data-bootcamp-selection-challenge)**, read the rest of the instructions labeled "Exploratory Analysis," and solve the questions listed at the end of the statement.
+This challenge will help us understand your problem-solving skills.
 
 ### Important notes:
 
-- We expect this part of the challenge to take around **3 hours** to complete.
-- There is no specific time limitations, so you can go at your own pace, **but please make sure to submit it within three days of registration!**
-- Once you have completed this part of the challenge, please fill out the **Google Form** that is mentioned at the bottom of this page with your forked repository.
+- We expect this part of the challenge to take about **3 hours** to complete.
+- There are no specific time limitations, so you can go at your own pace, **but please make sure to submit it within three days of registration!**
+- Once you have completed this part of the challenge, please fill out the **Google Form** mentioned at the end of this page.
 
 # Exploratory Analysis
 
@@ -63,7 +66,7 @@ The following is the structure of the CSV file:
 
 ### Deliverables
 
-* Google form with your forked GitHub repository URL containing your own code.
+* Google Form with your forked GitHub repository URL containing your code.
 * Python Code (Plain Script or Jupyter Notebook) on GitHub.
 * Create a report that includes the responses to the questions, the lessons learned, and any additional comments. In this report, you can include diagrams and images that support your solution.
 
@@ -73,4 +76,4 @@ The following is the structure of the CSV file:
 
 Remember, you must send your forked repository by filling out the following **[Google Form](https://forms.gle/BVWLqYnoFj8CRF3v8)** within **three days of your registration date** to be considered for the Wizeline Academy Data Engineering Bootcamp!
 
-Thanks for completing the challenge, we can’t wait to see you soon!
+Thanks for completing the challenge. We can't wait to see you soon!
