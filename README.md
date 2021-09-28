@@ -7,6 +7,8 @@ To be accepted into the Wizeline Academy Data Engineering Bootcamp, you must com
 This challenge **is not** a test or an exam; it is a project, and you are the engineer assigned to solve this issue.
 
 Communication is essential, and we are here to help you if you get stuck or have any concerns - open an issue in the source repository, and our team of expert Data Engineers will get back to you as soon as possible!
+
+We need you to use the same email address for your registration, for your Coding Challenge in **CodeSignal** and for your Practical Challenge. This way we can have a 360 profile of your work.
 <br />
 
 ## Technical Challenge Part 1 - Coding
